@@ -1,10 +1,10 @@
 const siteMeta = {
-	author: "Chris Williams",
-	title: "Astro Theme Cactus",
-	description: "An opinionated starter theme for Astro",
+	author: "Admir Zukic",
+	title: "One vs One",
+	description: "A website where I compare utilities, products and services for you.",
 	lang: "en-GB",
 	ogLocale: "en_GB",
-	githubUrl: "https://github.com/chrismwilliams/astro-theme-cactus",
+	githubUrl: "https://github.com/5quicktips/1vs1",
 	themeColorLight: "#fafafa",
 	themeColorDark: "#1d1f21",
 };
